@@ -47,7 +47,5 @@ Untracked files:
 5. Commit it: git commit -m "Add test.txt"
 6. Run: git status → Working tree should now be clean
 
----
-
 
 
