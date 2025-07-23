@@ -38,14 +38,14 @@
 
 ## 🧪 Example Flow
 
-a. echo "hello" >> demo.txt
-b. git add .
-c. git commit -m "Add demo"
+a) echo "hello" >> demo.txt
+b) git add .
+c) git commit -m "Add demo"
 
 # Now undo:
-a. git reset --soft HEAD~1   # Keep changes staged
-b. git reset --mixed HEAD~1  # Keep changes in file, not staged
-c. git reset --hard HEAD~1   # Delete everything
+1. git reset --soft HEAD~1   # Keep changes staged
+2. git reset --mixed HEAD~1  # Keep changes in file, not staged
+3. git reset --hard HEAD~1   # Delete everything
 
 ---
 
