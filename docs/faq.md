@@ -1,6 +1,6 @@
 ## 📘 faq.md – Frequently Asked Questions (Git & GitHub)
 
-## ❓ Q1: What is the difference between git add and git commit?
+❓ Q1: What is the difference between git add and git commit?
 ✅ A:
 `git add` : Stages changes (prepares them).
 `git commit` : Saves staged changes to the repository history.
