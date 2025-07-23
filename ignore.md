@@ -25,7 +25,7 @@ Create a `.gitignore` file in your root directory:
 `*.log`
 2. Ignore a folder named /build
 `build/`
-4. Ignore specific file
+3. Ignore specific file
 `secrets.txt`
 4. Ignore all .class files in any folder
 `*.class`
@@ -61,7 +61,7 @@ Create a `.gitignore` file in your root directory:
 ## 🧪 Practice Task
 1. Create a .gitignore file
 2.  Add:
-  - temp.txt | logs/ | *.log
+`temp.txt | logs/ | *.log`
 3. Create those files/folders
 4. Run git status — they should be missing from staged changes
 5. Add other files and commit as usual
