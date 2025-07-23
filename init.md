@@ -37,7 +37,7 @@ After running git init, Git adds a hidden .git/ folder inside your project direc
 ├── objects/
 
 
-### 💡 Do NOT delete or modify .git/ — this is your repo’s brain!
+# 💡 Do NOT delete or modify .git/ — this is your repo’s brain!
 
 
 ---
