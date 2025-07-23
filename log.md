@@ -36,9 +36,9 @@ Date:   Tue Jul 22 10:15:23 2025 +0530
 ---
 
 ## 🔹 Examples
-`git log --oneline --graph`
-`git log -p hello.txt`
-`git log --since="2 days ago"`
+1. `git log --oneline --graph`
+2. `git log -p hello.txt`
+3. `git log --since="2 days ago"`
 
 
 ---
