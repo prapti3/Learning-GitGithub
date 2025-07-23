@@ -17,14 +17,18 @@
 ---
 
 ## 💬 Then what?
+
 After git rm, always follow up with:
+
 `git commit -m "Removed unnecessary file/folder"`
 `git push origin main`
 
 ---
 
 ## 📝 Pro Tip:
+
 - If you accidentally committed a file you want Git to ignore:
+  
 `git rm --cached filename`
 `echo "filename" >> .gitignore`
 `git commit -m "Removed and ignored filename"`  
