@@ -5,6 +5,10 @@ This is where I’m documenting everything I’m learning about Git from basics 
 
 ---
 
+[Git folder Organizer](https://sequoia-moon-46b.notion.site/Git-Organizer-2392408cb87e8092a02bc5246b875b17)
+
+---
+
 ## 📚 Topics Covered
 
 ### 🔹 Basics
