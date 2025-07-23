@@ -3,7 +3,6 @@
 Welcome to my Git Learning Repo! 🎯  
 This is where I’m documenting everything I’m learning about Git from basics to advanced topics, with hands-on practice.
 
----
 
 [Git folder Organizer](https://sequoia-moon-46b.notion.site/Git-Organizer-2392408cb87e8092a02bc5246b875b17)
 
