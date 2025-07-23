@@ -27,10 +27,10 @@ This creates a hidden `.git` directory where Git stores all version history and 
 ---
 
 ## 🔹 What Gets Created?
-After running git init, Git adds a hidden .git/ folder inside your project directory:
+- After running git init, Git adds a hidden .git/ folder inside your project directory:
 
 
-.git/
+- .git/
 ├── config
 ├── HEAD
 ├── refs/
