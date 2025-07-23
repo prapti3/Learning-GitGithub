@@ -87,19 +87,19 @@
 ## 📁 Bonus: Organize Your Learning Repo
 
 Learning-GitGithub/
-│
-| 01-init.md |
-| 02-add-commit.md |
-|  03-remote.md | 
-| 04-branching.md | 
-| 05-reset-revert.md | 
-| 06-ignore-gitkeep.md | 
-| 07-git-diff.md |
-| 08-git-log.md |
-| 09-pull-push.md |
-| 10-git-rebase.md |
-| 11-git-rm.md |
-| reference.md |
+
+01-init.md 
+02-add-commit.md 
+03-remote.md 
+04-branching.md 
+05-reset-revert.md 
+06-ignore-gitkeep.md 
+07-git-diff.md 
+08-git-log.md 
+09-pull-push.md 
+10-git-rebase.md 
+11-git-rm.md 
+reference.md 
 
 
 
