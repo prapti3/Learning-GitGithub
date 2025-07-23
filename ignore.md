@@ -22,15 +22,38 @@ Create a `.gitignore` file in your root directory:
 ## 🔹 Add Patterns to ignore Files or Folders
 
 1. Ignore all .log files
-- *.log
+`*.log`
 2. Ignore a folder named /build
-- build/
-
-3. Ignore specific file
-- secrets.txt
-
+`build/`
+4. Ignore specific file
+`secrets.txt`
 4. Ignore all .class files in any folder
-- *.class
+`*.class`
 
 ---
+
+## Example .gitignore
+
+1. Java files to ignore
+`*.class`
+
+2. IntelliJ IDEA
+`.idea/`
+`*.iml`
+
+3. Logs
+`*.log`
+
+4. OS files
+`.DS_Store`
+`Thumbs.db`
+
+5. Build directory
+`target/`
+
+
+---
+
+
+
 
