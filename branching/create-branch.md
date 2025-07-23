@@ -2,7 +2,7 @@
 
 # 🌿 Creating a Git Branch
 
-A branch is a pointer to a specific commit — allowing independent development.
+A branch is a pointer to a specific commit allowing independent development.
 
 --- 
 
