@@ -1,7 +1,7 @@
 # Git Learning & Practice Repository
 
 Welcome to my Git Learning Repo! 🎯  
-This is where I’m documenting everything I’m learning about Git — from basics to advanced topics, with hands-on practice.
+This is where I’m documenting everything I’m learning about Git from basics to advanced topics, with hands-on practice.
 
 ---
 
