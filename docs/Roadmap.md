@@ -88,17 +88,17 @@
 
 Learning-GitGithub/
 
-01-init.md 
-02-add-commit.md 
-03-remote.md 
-04-branching.md 
-05-reset-revert.md 
-06-ignore-gitkeep.md 
-07-git-diff.md 
-08-git-log.md 
-09-pull-push.md 
-10-git-rebase.md 
-11-git-rm.md 
+1. init.md 
+2. add-commit.md 
+3. remote.md 
+4. branching.md 
+5. reset-revert.md 
+6. ignore-gitkeep.md
+7. git-diff.md
+8. git-log.md
+9. pull-push.md
+10. git-rebase.md
+11. git-rm.md 
 reference.md 
 
 
