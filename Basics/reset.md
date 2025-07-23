@@ -58,9 +58,9 @@ c) git commit -m "Add demo"
 
 ## 🧠 Tips
 
--- hard is dangerous! Use only if you're sure.
--- Use git reflog to recover accidentally deleted commits.
--- Prefer git restore for unstaging or discarding files (safer).
+- hard is dangerous! Use only if you're sure.
+- Use git reflog to recover accidentally deleted commits.
+- Prefer git restore for unstaging or discarding files (safer).
 
 
 
