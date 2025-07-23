@@ -58,5 +58,5 @@ Date:   Tue Jul 22 10:15:23 2025 +0530
 - Combine options: git log --oneline --graph --decorate --all
 - Copy-paste commit SHA to compare or revert later
 
----
+
 
