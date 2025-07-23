@@ -28,6 +28,8 @@ This is where I’m documenting everything I’m learning about Git — from bas
 - Conflict handling in teams
 - GitHub flow
 
+### 🔹 Deleting folder/files through git bash
+
 ### 🔹 Advanced Concepts
 - `git stash`, `git reflog`
 - `git cherry-pick`
