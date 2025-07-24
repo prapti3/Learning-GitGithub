@@ -1,4 +1,4 @@
-### 📄 cherry-pick.md
+## 📄 cherry-pick.md
 # 🍒 git cherry-pick – Pick Specific Commits Like a Pro
 
  - git cherry-pick lets you apply specific commits from one branch to another, without merging the whole branch.
