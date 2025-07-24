@@ -4,8 +4,7 @@ When working with GitHub, understanding the difference between **fork** and **cl
 
 ---
 <br>
-<br>
-<br>
+
 
 ## 🔧 1. What is a Fork?
 
@@ -21,6 +20,9 @@ A **fork** is a copy of a remote repository **on your own GitHub account**.
 
 ---
 
+<br>
+<br>
+
 ## 💻 2. What is a Clone?
 
 A **clone** is a **local copy** of any repository on your computer.
@@ -31,6 +33,7 @@ A **clone** is a **local copy** of any repository on your computer.
 ---  
 
 
+<br>
 
 📌 Command:
 
@@ -42,7 +45,7 @@ Example :
 
 ```
 
-
+<br>
 
 ## 📊 Fork vs Clone – Quick Comparison
 
@@ -56,12 +59,12 @@ Example :
 | Creates Local Copy   | ❌ No                          | ✅ Yes                      |
 
 
-
+<br>
 
 ### 🧠 Best Practice
  - 🔸 Fork → Clone → Create new branch → Make changes → Push → Create PR.
 
-
+<br>
 
 ### ✅ Summary
 - Fork = GitHub-level duplication for collaboration.
