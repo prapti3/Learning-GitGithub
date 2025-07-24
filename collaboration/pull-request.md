@@ -3,6 +3,7 @@
 A **Pull Request (PR)** is a way to propose changes to a codebase. You request that your changes be reviewed and pulled (merged) into another branch — typically the `main` branch of a project.
 
 ---
+<br>
 
 ## 🔧 When to Use a Pull Request?
 
@@ -12,9 +13,13 @@ A **Pull Request (PR)** is a way to propose changes to a codebase. You request t
 
 ---
 
+<br>
+
 ## 📌 PR Workflow
 
 > Let’s say you want to contribute to a repository:
+
+<br>
 
 ### Step 1: Fork the Repository (if you don’t have write access)
 
@@ -24,6 +29,8 @@ Click on "Fork" button → GitHub copies the repo to your account
 
 ```
 <br>
+
+ 
 
 ### Step 2 :  Clone Your Fork
 ```
