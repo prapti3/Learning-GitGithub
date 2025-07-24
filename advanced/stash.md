@@ -1,6 +1,6 @@
-#📄 stash.md
+# 📄 stash.md
 
-##🧳 Git Stash
+## 🧳 Git Stash
 - Git stash is used to temporarily save changes in your working directory that you don't want to commit immediately. It's like putting your work in a drawer to come back to later.
 
 <br>
