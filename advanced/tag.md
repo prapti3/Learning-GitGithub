@@ -47,7 +47,7 @@
 1. Push a single tag:
    - `git push origin v1.0`
 2. Push all tags:
-  -  `git push origin --tags`
+   - `git push origin --tags`
 
 
 ---
