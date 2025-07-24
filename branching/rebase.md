@@ -53,11 +53,13 @@ Use -D for force delete
 
 ```
 
-## ❌ Delete a remote branch : `git push origin --delete <branch-name>`
+### ❌ Delete a remote branch : 
+`git push origin --delete <branch-name>`
 
-## ✅ Example: `git push origin --delete feature/login`
+### ✅ Example: 
+`git push origin --delete feature/login`
 
-## 💡 Tip:
+### 💡 Tip:
 - Only delete branches after confirming they are merged or no longer needed.
 
 
