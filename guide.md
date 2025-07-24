@@ -9,15 +9,22 @@
 cd path/to/your/folder
 cd D:/Projects/MyApp
 ```
+<br>
 
 ### 🔹 2. Initialize Git inside the folder
  `git init` : This makes your folder a Git repository.
 
+<br>
+
 ### 🔹 3. Add your project files to Git
 ` git add .`
 
+<br>
+
 ### 🔹 4. Commit the changes
 `git commit -m "Initial commit"`
+
+<br>
 
 ### 🔹 5. Create a new repository on GitHub
 ```
@@ -27,11 +34,15 @@ cd D:/Projects/MyApp
 4. Click Create repository
 ```
 
+<br>
+
 
 ### 🔹 6. Copy the remote repository URL
 - Example (HTTPS):
      - https://github.com/your-username/your-repo-name.git
 
+
+<br>
 
 ### 🔹 7. Link your local folder to the GitHub repo
 ` git remote add origin https://github.com/your-username/your-repo-name.git`
@@ -39,12 +50,16 @@ cd D:/Projects/MyApp
 - You can check if it's added correctly:
    - `git remote -v`
 
+<br>
+
 
 ### 🔹 8. Push your code to GitHub
 `git push -u origin main`
 
+
 - If your branch is master, use:
 `git push -u origin master`
+
 
 - If push fails due to branch name mismatch, run:
 `git branch -M main`
