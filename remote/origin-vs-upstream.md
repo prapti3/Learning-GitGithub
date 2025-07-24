@@ -70,7 +70,7 @@ git remote add upstream https://github.com/original-owner/repo.git
 
 ---
 
-### ✅ $${\color{red} Quick Commands Recap }
+### ✅  Quick Commands Recap 
 
 1. Add upstream remote
 `git remote add upstream <url>`
