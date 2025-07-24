@@ -27,6 +27,7 @@ Pushing and pulling your own changes.
 
 `git remote add upstream https://github.com/original-owner/repo.git`
 
+
 ### ✅ Used for:
 - Fetching updates from the original repo, so you can stay in sync.
 
@@ -69,7 +70,7 @@ git remote add upstream https://github.com/original-owner/repo.git
 
 ---
 
-### ✅ Quick Commands Recap
+### ✅ $${\color{red} Quick Commands Recap
 
 1. Add upstream remote
 `git remote add upstream <url>`
