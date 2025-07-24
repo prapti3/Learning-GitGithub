@@ -40,7 +40,7 @@ git push origin main
 1.  ❗ Rejected (non-fast-forward)
 `error: failed to push some refs `
 
-Fix:
+- Fix:
 `git pull --rebase origin main`
 `git push origin main`
 
