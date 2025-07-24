@@ -5,17 +5,19 @@
 ## ✅ Step-by-Step: Connect Local Folder to GitHub Repo
 
 ### 🔹 1. Go to your local folder using Git Bash
-- cd path/to/your/folder
-- cd D:/Projects/MyApp
+```
+cd path/to/your/folder
+cd D:/Projects/MyApp
+```
 
 ### 🔹 2. Initialize Git inside the folder
-- git init : This makes your folder a Git repository.
+ `git init` : This makes your folder a Git repository.
 
 ### 🔹 3. Add your project files to Git
-- git add .
+` git add .`
 
 ### 🔹 4. Commit the changes
-- git commit -m "Initial commit"
+`git commit -m "Initial commit"`
 
 ### 🔹 5. Create a new repository on GitHub
 ```
@@ -32,7 +34,7 @@
 
 
 ### 🔹 7. Link your local folder to the GitHub repo
-- git remote add origin https://github.com/your-username/your-repo-name.git
+` git remote add origin https://github.com/your-username/your-repo-name.git`
 
 - You can check if it's added correctly:
    - `git remote -v`
