@@ -3,6 +3,7 @@
 **Review comments** are feedback left by collaborators or maintainers during a Pull Request (PR) review process. They help improve code quality, maintain consistency, and ensure alignment with project standards.
 
 ---
+<br>
 
 ## 📌 Types of Review Comments
 
@@ -12,6 +13,7 @@
 4. 💬 **General Discussions** – Open-ended feedback, questions, or clarifications.
 
 ---
+<br>
 
 ## 🔁 Responding to Review Comments
 
@@ -22,6 +24,7 @@
 | ❌ Disagree        | Provide a logical explanation and discuss respectfully.|
 
 ---
+<br>
 
 ## 🧪 Example Workflow
 
