@@ -31,6 +31,8 @@
 | `pre-push`           | Before pushing to a remote             | Run tests before push                 |
 | `post-commit`        | After commit is created                | Send notification, log info           |
 
+<br>
+<br>
 
 ### 🔹 Server-Side Hooks (on Git server)
 
