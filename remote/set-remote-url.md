@@ -52,5 +52,18 @@ Example :
 `git remote remove upstream`
 
 
+## 📝 Summary
+
+| Action | 	Command Example
+| --- | --- | 
+| View current remotes | 	git remote -v
+| Change origin URL | 	git remote set-url origin <new-url> | 
+| Add new remote | 	git remote add upstream <url> | 
+| Remove remote	 | git remote remove upstream | 
+
+
+## 🚀 Tip
+ - Use SSH URLs (git@...) to avoid entering your username/password every time.
+
 
 
