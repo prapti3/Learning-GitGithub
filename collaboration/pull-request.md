@@ -83,7 +83,7 @@ git push origin feature/my-changes
 <br>
 
 ### ✅ What Happens Next?
-
+```
 - Code reviewers check your PR.
 - You may get feedback or approval.
 - Once approved, it’s merged into the target branch (main, dev, etc.)
@@ -93,7 +93,7 @@ git push origin feature/my-changes
 ##### 🐛 Fix: Typo in README
 ##### ✨ Feature: Added login validation
 ##### 🧪 Test: Added unit tests for user model
-
+```
 
 <br>
 
