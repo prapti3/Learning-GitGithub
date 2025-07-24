@@ -99,7 +99,7 @@ git push origin --delete feature/login-form  # delete remote branch
 ---
 <br>
 
-###🧠 Best Practices
+### 🧠 Best Practices
 - Keep feature branches short-lived.
 - Sync with main regularly to avoid conflicts.
 - One branch = one feature/task.
