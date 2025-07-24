@@ -41,11 +41,13 @@ git checkout <commit_hash>
 - Then, optionally create a new branch from it:
 `git checkout -b recovery-branch`
 
-
+<br>
 
 ###  🔄 Go Back to a Previous State
 `git reset --hard HEAD@{2}`
 - Takes your branch back to how it was at that point.
+
+<br>
 
 ### 💡 Check Branch Movements
 `git reflog show main`
