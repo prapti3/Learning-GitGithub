@@ -44,19 +44,21 @@ In a collaborative Git workflow like Git Flow, two key branches are used:
 
 ## 🔁 Workflow Example
 
-```mermaid
-gitGraph
-   commit id: "Initial commit"
-   branch main
-   commit id: "Production v1.0"
-   branch develop
-   commit id: "Add login"
-   commit id: "Fix login bug"
-   checkout main
-   merge develop
-   commit id: "Release v1.1"
+Git Flow Example:
+-----------------
 
-```
+main
+ └── Initial commit
+ └── Production v1.0
+     ↳ develop
+         └── Add login
+         └── Fix login bug
+     ↳ Merge develop → main
+ └── Release v1.1
+
+---
+<br>
+
 
 ### 📌 Summary Table :
 
