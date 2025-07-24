@@ -18,10 +18,11 @@
 | **Annotated**   | Includes metadata (tagger, date, message). Recommended for release tagging. |
 
 
+---
 <br>
 
 ### ✨ Create a Tag
-
+```
 #### ✅ Lightweight Tag 
 `git tag v1.0`
 
@@ -32,6 +33,8 @@
 `git tag`
 - To filter:
 `git tag -l "v1.*"`
+```
+
 
 ---
 
