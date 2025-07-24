@@ -3,6 +3,7 @@
 The **Feature Branch Workflow** is a Git strategy used to develop new features in isolation from the main codebase (`main` or `master` branch). It helps teams collaborate efficiently without breaking the production-ready branch.
 
 ---
+<br>
 
 ## 🔧 Why Use Feature Branches?
 
@@ -11,6 +12,8 @@ The **Feature Branch Workflow** is a Git strategy used to develop new features i
 - Makes code reviews and testing easier.
 
 ---
+<br>
+
 
 ## 📌 Step-by-Step Feature Branch Flow
 
