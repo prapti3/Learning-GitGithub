@@ -25,6 +25,10 @@ A **clone** is a **local copy** of any repository on your computer.
 - ✅ Used to **work offline**, make changes, and push back later.
 - 🔐 You can clone your own repo, someone else’s public repo, or a fork.
 
+---  
+
+
+
 📌 Command:
 
 ```bash
@@ -34,6 +38,8 @@ Example :
 `git clone https://github.com/your-username/project.git`
 
 ```
+
+
 
 ## 📊 Fork vs Clone – Quick Comparison
 
@@ -47,8 +53,11 @@ Example :
 | Creates Local Copy   | ❌ No                          | ✅ Yes                      |
 
 
+
+
 ### 🧠 Best Practice
  - 🔸 Fork → Clone → Create new branch → Make changes → Push → Create PR.
+
 
 
 ### ✅ Summary
