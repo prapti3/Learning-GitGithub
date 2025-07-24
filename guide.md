@@ -1,7 +1,6 @@
 ## Complete Guide for Creating Folder and Structuring Git Repo.
 
 # 🎯 Guide 
----
 
 ## ✅ Step-by-Step: Connect Local Folder to GitHub Repo
 
