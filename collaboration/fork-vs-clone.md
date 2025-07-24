@@ -28,7 +28,7 @@ A **clone** is a **local copy** of any repository on your computer.
 📌 Command:
 
 ```bash
-git clone <repo-url>
+`git clone <repo-url>`
 
 Example :
 `git clone https://github.com/your-username/project.git`
