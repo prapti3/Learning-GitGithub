@@ -15,7 +15,7 @@ This is where I’m documenting everything I’m learning about Git from basics 
 - `.gitignore`
 - `git diff`, `git log`, `git show`
 
-### 🔹 Branching & Merging
+### 🔹 [Branching & Merging](https://github.com/prapti3/Learning-GitGithub/tree/main/branching)
 - Creating and switching branches
 - Merging and conflict resolution
 - Rebase vs Merge
