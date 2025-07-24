@@ -44,8 +44,6 @@ console.log("Hello from feature");
 <br>
 
 
----
-<br> 
 
 ### 3. Add the Resolved Files
 `git add src/app.js`
