@@ -69,9 +69,9 @@ cd D:/Projects/MyApp
 
 ----
 
-# ✅ Step-by-Step Guide: Creating a Folder in a Git Repo
+## ✅ Step-by-Step Guide: Creating a Folder in a Git Repo
 
-## 🔹 1. Initialize a Git Repo (if not already)
+### 🔹 1. Initialize a Git Repo (if not already)
 - If you don’t have a Git repository yet:
   
 ```
@@ -83,7 +83,7 @@ git init
 <br>
 
 
-## 🔹 2. Create a Folder Locally
+### 🔹 2. Create a Folder Locally
 - Use mkdir to create a new folder:
 ```
 mkdir folder-name
@@ -95,7 +95,7 @@ mkdir -p src/components
 ```
 <br>
 
-## 🔹 3. Add Files into the Folder
+### 🔹 3. Add Files into the Folder
 - Git doesn’t track empty folders. So, create a file inside the folder
   
 ```
@@ -106,7 +106,7 @@ touch Notes/todo.txt
 ```
 <br>
 
-## 🔹 4. Stage the Changes
+### 🔹 4. Stage the Changes
 ```
 git add .
 
@@ -116,26 +116,26 @@ git add Notes/
 ```
 <br>
 
-## 🔹 5. Commit the Changes
+### 🔹 5. Commit the Changes
 
 `git commit -m "Added Notes folder with initial files"`
 
 
 <br>
 
-## 🔹 6. Connect to Remote Repo (If not done)
+### 🔹 6. Connect to Remote Repo (If not done)
 -  you haven’t connected your repo to GitHub yet:
 `git remote add origin https://github.com/your-username/your-repo.git`
 
 <br>
 
-## 🔹 7. Push to GitHub
+### 🔹 7. Push to GitHub
 `git push origin main`
 - Replace main with your branch name if different.
 
 <br>
 
-## ✅ Special Notes
+### ✅ Special Notes
 - 📌 Git Doesn't Track Empty Folders
 - If you need to create an empty folder:
 
@@ -150,7 +150,8 @@ git commit -m "Added empty logs folder"
 
 <br>
 
-## ✅ Summary Cheat Sheet
+### ✅ Summary Cheat Sheet
+
 | Action                 | Command Example                    |
 | ---------------------- | ---------------------------------- |
 | Create folder          | `mkdir folder-name`                |
